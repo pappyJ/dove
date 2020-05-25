@@ -1,1 +1,1 @@
-This App Was Developed By Pappy J
+This App Is For Dove Online Learning
