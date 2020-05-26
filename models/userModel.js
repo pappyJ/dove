@@ -142,6 +142,22 @@ const userSchema = new mongoose.Schema({
 
     {
         type: Date,
+    },
+
+    category:
+
+    {
+        type : String,
+
+        required : [true , 'Every User Must Belong To A Category'],
+
+        enum:
+
+        {
+            values : ['A' , 'B' , 'C'],
+
+            message : 'Category Must Either Be A , B Or C'
+        }
     }
 
 
