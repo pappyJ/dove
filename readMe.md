@@ -1,1 +1,1 @@
-This App Is For Dove Online Learning
+Alpha Educational Services
